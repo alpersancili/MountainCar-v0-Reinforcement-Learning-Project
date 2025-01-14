@@ -30,4 +30,7 @@ Saves the Q-table to a file for reuse in testing mode.
 📊 Results
 The training process aims to maximize cumulative rewards by learning an optimal policy. The reward graph (mountain_car.png) illustrates the agent's performance improvement over time.
 
+https://github.com/user-attachments/assets/afa728ac-f645-4cab-ba35-6af18e2a84c8
+
+
 
