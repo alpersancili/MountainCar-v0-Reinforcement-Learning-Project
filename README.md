@@ -15,9 +15,11 @@ Using an epsilon-greedy strategy to balance exploration and exploitation during 
 
 PROJECT STRUCTURE
 
-mountaincar_q.py: The main script implementing the Q-Learning algorithm for the MountainCar environment.
-mountaincar.pkl: The saved Q-table generated after training (optional).
-rewards_plot.png: A plot of average rewards over episodes (generated after training).
+mountain_car_q.py: The main script implementing the Q-Learning algorithm for the MountainCar environment.
+
+mountain_car.pkl: The saved Q-table generated after training (optional).
+
+mountain_car.png: A plot of average rewards over episodes (generated after training).
 
 FEATURES
 
